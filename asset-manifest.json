@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/final-Gantt/static/css/main.9cbd4f2f.chunk.css",
-    "main.js": "/final-Gantt/static/js/main.53878e7f.chunk.js",
-    "main.js.map": "/final-Gantt/static/js/main.53878e7f.chunk.js.map",
-    "runtime-main.js": "/final-Gantt/static/js/runtime-main.b9a363c2.js",
-    "runtime-main.js.map": "/final-Gantt/static/js/runtime-main.b9a363c2.js.map",
+    "main.css": "/final-Gantt/static/css/main.667f8749.chunk.css",
+    "main.js": "/final-Gantt/static/js/main.1bdf20f9.chunk.js",
+    "main.js.map": "/final-Gantt/static/js/main.1bdf20f9.chunk.js.map",
+    "runtime-main.js": "/final-Gantt/static/js/runtime-main.1ea6d8f2.js",
+    "runtime-main.js.map": "/final-Gantt/static/js/runtime-main.1ea6d8f2.js.map",
     "static/css/2.ce6da583.chunk.css": "/final-Gantt/static/css/2.ce6da583.chunk.css",
-    "static/js/2.951e7c83.chunk.js": "/final-Gantt/static/js/2.951e7c83.chunk.js",
-    "static/js/2.951e7c83.chunk.js.map": "/final-Gantt/static/js/2.951e7c83.chunk.js.map",
-    "static/js/3.fcae5ebe.chunk.js": "/final-Gantt/static/js/3.fcae5ebe.chunk.js",
-    "static/js/3.fcae5ebe.chunk.js.map": "/final-Gantt/static/js/3.fcae5ebe.chunk.js.map",
+    "static/js/2.2984c467.chunk.js": "/final-Gantt/static/js/2.2984c467.chunk.js",
+    "static/js/2.2984c467.chunk.js.map": "/final-Gantt/static/js/2.2984c467.chunk.js.map",
+    "static/js/3.6c3645df.chunk.js": "/final-Gantt/static/js/3.6c3645df.chunk.js",
+    "static/js/3.6c3645df.chunk.js.map": "/final-Gantt/static/js/3.6c3645df.chunk.js.map",
     "index.html": "/final-Gantt/index.html",
     "static/css/2.ce6da583.chunk.css.map": "/final-Gantt/static/css/2.ce6da583.chunk.css.map",
-    "static/css/main.9cbd4f2f.chunk.css.map": "/final-Gantt/static/css/main.9cbd4f2f.chunk.css.map",
-    "static/js/2.951e7c83.chunk.js.LICENSE.txt": "/final-Gantt/static/js/2.951e7c83.chunk.js.LICENSE.txt"
+    "static/css/main.667f8749.chunk.css.map": "/final-Gantt/static/css/main.667f8749.chunk.css.map",
+    "static/js/2.2984c467.chunk.js.LICENSE.txt": "/final-Gantt/static/js/2.2984c467.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9a363c2.js",
+    "static/js/runtime-main.1ea6d8f2.js",
     "static/css/2.ce6da583.chunk.css",
-    "static/js/2.951e7c83.chunk.js",
-    "static/css/main.9cbd4f2f.chunk.css",
-    "static/js/main.53878e7f.chunk.js"
+    "static/js/2.2984c467.chunk.js",
+    "static/css/main.667f8749.chunk.css",
+    "static/js/main.1bdf20f9.chunk.js"
   ]
 }
